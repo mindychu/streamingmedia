@@ -7,7 +7,9 @@ body{
     font-family: 'raleway';
     background-color: white;
 }
-
+title{
+    color: #FFF;
+}
 nav{
     width: 375px;
     background-color: #030abc;
